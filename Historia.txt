@@ -1,9 +1,9 @@
 Hola mi nombre es Alejandro
+Soy estudiante del cut 
 
 
 
 
 
 
-
-v0.0.0
+v0.1.0
