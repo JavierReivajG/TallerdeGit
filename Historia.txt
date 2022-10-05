@@ -3,7 +3,11 @@ Soy estudiante del cut
 
 
 
+<<<<<<< HEAD
 hola soy angelito y me gusta hacerme menso en el trabajo
+=======
+hola soy pablito y me gusta el queso
+>>>>>>> cabecera
 
 
 v0.3.0
